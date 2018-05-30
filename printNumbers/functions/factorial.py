@@ -30,3 +30,4 @@ def Factorial(n):
 
 def test(text):
     print(test)
+    print("finish")
