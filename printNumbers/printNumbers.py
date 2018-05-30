@@ -54,6 +54,7 @@ if __name__ == '__main__':
     print('')
     print(CONST_VERSION_STRING)
     print("\nThe cake is a LIE!!!")
+    print("...but I want cake")
     print('')
 
     # Process command line arguments.
